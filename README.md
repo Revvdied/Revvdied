@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Revvdied
-  I wont leave much about me here, you can find me on twitter @Revvdied
+  I wont leave much about me here, you can find me on X @Revvdied
 
 <!---
 Revvdied/Revvdied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
